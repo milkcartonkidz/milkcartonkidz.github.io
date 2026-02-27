@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Dune | Jesse Frey</title>
+  <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+
+<header>
+  <h1>Dune</h1>
+  <nav>
+    <a href="../index.html">Home</a>
+    <a href="../projects.html">Projects</a>
+    <a href="../reviews.html">Book Reviews</a>
+  </nav>
+</header>
+
+<main>
+  <p><em>Frank Herbert</em></p>
+
+  <p>
+    Dune is less about sand and more about systems. Ecology, religion,
+    politics, and technology interlock in ways that feel deeply engineered.
+  </p>
+
+  <p>
+    What struck me most was the long-term thinking embedded in every
+    decision — something engineering often demands.
+  </p>
+</main>
+
+</body>
+</html>
