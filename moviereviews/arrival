@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Movie Reviews | Jesse Frey</title>
+  <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>Movie Reviews</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="projects.html">Projects</a>
+    <a href="moviereviews.html">Movie Reviews</a>
+    <a href="about.html">About</a>
+  </nav>
+</header>
+
+<main>
+  <h2>2026</h2>
+  <p><a href="moviereviews/arrival.html">Arrival</a></p>
+</main>
+
+</body>
+</html>
