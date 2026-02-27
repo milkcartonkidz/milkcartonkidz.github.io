@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Book Reviews | Jesse Frey</title>
+  <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>Movie Reviews</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="projects.html">Projects</a>
+    <a href="bookreviews.html">Book Reviews</a>
+    <a href="about.html">About</a>
+  </nav>
+</header>
+
+<main>
+  <h2>2026</h2>
+  <p><a href="reviews/dune.html">Dune — Systems, Power, and Ecology</a></p>
+</main>
+
+</body>
+</html>
