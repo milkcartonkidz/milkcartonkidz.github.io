@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title> DIY Wind Chimes | Jesse Frey</title>
+  <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+
+<header>
+  <h1>DIY Wind Chimes</h1>
+  <nav>
+    <a href="../index.html">Home</a>
+    <a href="../projects.html">Projects</a>
+    <a href="../bookreviews.html">Book Reviews</a>
+    <a href="../moviereviews.html">Movie Reviews</a>
+  </nav>
+</header>
+
+<main>
+  <p>
+    Wind chimes are easier to make than you might think. I've included a parts list below:
+  </p>
+
+  <p>
+    - 3/4 in. steel EMT conduit
+    - pipe cutter
+    - heat shrink tubing
+    - eyelet screws
+    - three pieces of wood in descending sizes
+    - drill, 1/8th in. drill bit
+  </p>
+</main>
+
+</body>
+</html>
